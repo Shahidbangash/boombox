@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.boombox.app">
+    package="com.boombox.car">
       <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="boombox"
+        android:label="BoomBox"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
