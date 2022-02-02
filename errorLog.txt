@@ -1,0 +1,6 @@
+[VERBOSE-2:ui_dart_state.cc(209)] Unhandled Exception: MissingPluginException(No implementation found for method setRootTemplate on channel com.oguzhnatly.flutter_carplay)
+#0      MethodChannel._invokeMethod
+package:flutter/…/services/platform_channel.dart:165
+<asynchronous suspension>
+Reloaded 1 of 604 libraries in 647ms.
+Reloaded 1 of 604 libraries in 433ms.
